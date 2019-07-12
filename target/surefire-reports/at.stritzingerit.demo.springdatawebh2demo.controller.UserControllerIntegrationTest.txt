@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: at.stritzingerit.demo.springdatawebh2demo.controller.UserControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.561 s - in at.stritzingerit.demo.springdatawebh2demo.controller.UserControllerIntegrationTest
